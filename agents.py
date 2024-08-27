@@ -31,8 +31,8 @@ class ResearchCrewAgents:
         
         # CHANGE YOUR MODEL HERE
         #self.selected_llm = self.gpt4_turbo
-        #self.selected_llm = self.gpt4o
-        self.selected_llm = self.gpt4o_mini
+        self.selected_llm = self.gpt4o
+        #self.selected_llm = self.gpt4o_mini
     def researcher(self):
     # Detailed agent setup for the Research Expert
         return Agent(

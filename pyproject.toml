@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "crewai-28"
-version = "0.28.8"
-description = "Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
-authors = ["Joao Moura <joao@crewai.com>"]
+name = "c01_01multiple-model-crew-main"
+version = "0.1.0"
+description = "CrewAI Streamlit Project"
+authors = ["Andy Mong <andym388@hotmail.com>"]
 readme = "README.md"
 packages = [
     { include = "crewai", from = "src" },
@@ -11,7 +11,7 @@ packages = [
 [tool.poetry.urls]
 Homepage = "https://crewai.com"
 Documentation = "https://github.com/joaomdmoura/CrewAI/wiki/Index"
-Repository = "https://github.com/joaomdmoura/crewai"
+Repository = "https://github.com/andym388/c01_01multiple-model-crew-main"
 
 [tool.poetry.dependencies]
 streamlit = "^1.13.0"

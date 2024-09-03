@@ -4,8 +4,8 @@
 #
 #    pip-compile --output-file=requirements.txt pyproject.toml
 #
-pysqlite3-binary==0.5.3.post1
 crewai-tools==0.12.0
+pysqlite3-binary==0.5.3.post1
 aiohappyeyeballs==2.4.0
     # via aiohttp
 aiohttp==3.10.5

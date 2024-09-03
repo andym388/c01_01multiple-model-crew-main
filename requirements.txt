@@ -122,7 +122,7 @@ docstring-parser==0.15
     # via
     #   google-cloud-aiplatform
     #   instructor
-embedchain==0.1.113
+embedchain==0.1.121
     # via
     #   c01_01multiple-model-crew-main (pyproject.toml)
     #   crewai

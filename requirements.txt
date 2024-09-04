@@ -118,7 +118,7 @@ distro==1.9.0
     # via
     #   groq
     #   openai
-docstring-parser==0.15
+docstring-parser==0.17
     # via
     #   google-cloud-aiplatform
     #   instructor

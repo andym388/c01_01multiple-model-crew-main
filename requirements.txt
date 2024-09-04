@@ -286,7 +286,7 @@ langchain-core==0.2.30
     #   langchain-text-splitters
 langchain-groq==0.1.5
     # via c01_01multiple-model-crew-main (pyproject.toml)
-langchain-openai==0.1.21
+langchain-openai==0.1.22
     # via embedchain
 langchain-text-splitters==0.2.2
     # via langchain
